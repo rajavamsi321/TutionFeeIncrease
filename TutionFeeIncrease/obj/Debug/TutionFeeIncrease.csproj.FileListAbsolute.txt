@@ -1,0 +1,10 @@
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\bin\Debug\TutionFeeIncrease.exe.config
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\bin\Debug\TutionFeeIncrease.exe
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\bin\Debug\TutionFeeIncrease.pdb
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\obj\Debug\TutionFeeIncrease.Form1.resources
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\obj\Debug\TutionFeeIncrease.Properties.Resources.resources
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\obj\Debug\TutionFeeIncrease.csproj.GenerateResource.cache
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\obj\Debug\TutionFeeIncrease.csproj.CoreCompileInputs.cache
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\obj\Debug\TutionFeeIncrease.exe
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\obj\Debug\TutionFeeIncrease.pdb
+c:\users\pavan\source\repos\TutionFeeIncrease\TutionFeeIncrease\obj\Debug\TutionFeeIncrease.csprojAssemblyReference.cache
